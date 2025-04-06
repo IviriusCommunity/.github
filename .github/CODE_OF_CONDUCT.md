@@ -1,107 +1,70 @@
-# 🙋 _Metropolitan_ Code of Conduct
+# 🙋 _Ivirius™ Community_ Code of Conduct
 
-> [!NOTE]
-> This document contains the Metropolitan Code of Conduct, a custom code of conduct made specifically for **Riverside Valley** repositories and projects, inspired by the Citizen Code of Conduct.
+> [!IMPORTANT]
+> This document outlines the Code of Conduct for the Ivirius™ Community - a set of principles and rules that all contributors, members, and team members must follow to ensure a respectful, inclusive, and safe environment.
 
-## 🫂 Purpose
+## 🧑‍💻 Purpose
 
-A primary goal of all Riverside Valley projects is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+The Ivirius™ Community was founded in 2020 with a mission to deliver high-quality software to tens of thousands of Windows users. This Code of Conduct outlines our goals, values, and the rules we follow to ensure a smooth and respectful experience for everyone interacting with our products and community.
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+We welcome developers, designers, and contributors from around the world to collaborate on our projects. 
 
-We invite all those who participate in Riverside Valley projects to help us create safe and positive experiences for everyone.
+To maintain the integrity of our community, contributors who violate these rules may lose their access privileges.
 
-## 🏙️ Open `Source/Culture/Tech` Citizenship
+## 💻 Article 1 – FOSS
 
-A supplemental goal of this Code of Conduct is to increase open `source/culture/tech` citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
+Here at the Ivirius™ Community, we proudly support and promote free and open-source software. Members who contribute meaningfully to our open-source projects will be recognized with the `Public Contributor` role on our Discord server.
 
-Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
+FOSS is the foundation of a strong, transparent, and collaborative community. Developers who demonstrate skill, dedication, and creativity through their contributions have a higher chance of being invited to join the core team.
 
-If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+> [!WARNING]
+> Donations and sponsorship revenue from our FOSS projects are used solely by the owner to fund the community’s infrastructure and support its growth. Since our FOSS projects are maintained by community members and contributors who volunteer their time and effort, we are not obligated to compensate them. The Ivirius™ Community is not a corporation and does not have the capacity to issue paychecks.
+
+## 🔒 Article 2 – Closed Source Software
+
+In addition to our FOSS projects, the Ivirius™ Community also maintains closed-source projects, some of which are payware.
+
+> [!WARNING]
+> Currently, the only payware project under the Ivirius™ Community is managed and published by the community’s owner. The revenue generated from this project is used to support both community growth and personal purposes.
+
+Since these projects are diverse, each has its own set of codes of conduct:
+
+1. **Ivirius Text Editor**
+   - Ivirius Text Editor does not generate revenue. Its net worth is equivalent to that of Ivirius Text Editor Plus, as both projects share the same underlying codebase.
+2. **Ivirius Text Editor Plus**
+   - All revenue from Ivirius Text Editor Plus is directed to the owner for community growth and personal purposes. Employees of the Ivirius™ Community who contribute to this project are not compensated, as we are unable to issue paychecks and want to prevent any potential fraudulent claims.
+   - The source code for this project is confidential and must not be disclosed by anyone with access to it.
 
 ## 😄 Expected Behavior
 
-The following behaviors are expected and requested of all community members:
+All community members are expected to adhere to the following guidelines:
 
-- [ ] 😁 Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
-- [ ] 🤗 Exercise consideration and respect in your speech and actions.
-- [ ] 🫂 Attempt collaboration before conflict.
-- [ ] 🤬 Refrain from demeaning, discriminatory, or harassing behavior and speech.
-- [ ] ⭐ Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
-- [ ] 🧍 Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
-- [ ] 😇 Mica should always be allowed 💖🥰
+- Contribute respectfully and thoughtfully to discussions and projects.
+- Provide constructive and actionable feedback.
+- Respect the decisions made by team members and moderators.
+- Focus on creating for the benefit of the community, not just personal gain.
+- Use Mica.
 
 ## 🤬 Unacceptable Behavior
 
-The following behaviors are considered harassment and are unacceptable within our community:
+The following behaviors are considered harassment and are strictly prohibited within the Ivirius™ Community:
 
-- [ ] 🤬 Violence, threats of violence or violent language directed against another person.
-- [ ] 🫤 Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
-- [ ] 📑 Posting or displaying sexually explicit or violent material.
-- [ ] 🪪 Posting or threatening to post other people's personally identifying information ("doxing").
-- [ ] 😠 Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
-- [ ] 📸 Inappropriate photography or recording.
-- [ ] 🖐️ Inappropriate physical contact. You should have someone's consent before touching them.
-- [ ] 🙍 Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
-- [ ] 🫣 Deliberate intimidation, stalking or following (online or in person).
-- [ ] 🙊 Advocating for, or encouraging, any of the above behavior.
-- [ ] ⁉️ Sustained disruption of community events, including talks and presentations.
-- [ ] 🪟 Negative comparison of Rebound to Rectify11 can be counted as harrasment.
-- [ ] 💢 ACRYLIC IS ABSOLUTELY NOT PERMITTED IN ANY OF OUR APPS!
+- Any form of violence, discrimination, inappropriate behavior, boundary violations, or illegal activities. Common sense applies - do not attempt to circumvent this rule.
+- Making changes to a project without prior discussion and approval from the team.
+- Injecting references to other projects, communities, or entities without prior approval.
+- Acting independently and claiming community projects as your own.
+- Making negative comparisons between projects (including operating systems, apps, mods, websites, etc.).
+- Any mention of "Acr\*lic" is strictly prohibited. Developers using "Acr\*lic" as a backdrop in any of our projects will face an immediate ban from the community (note that immutable components, such as flyouts, are exceptions).
 
-## ⚔️ Weapons Policy
+> [!NOTE]
+> Our Discord server's [extended rules](https://github.com/IviriusCommunity/Discord-Servers-Rules) may also apply to these articles.
 
-No weapons will be allowed at Riverside Valley events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
+## 🏙️ Employee Behavior
 
-## ⛓️ Consequences of Unacceptable Behavior
+Professional conduct is simple: maintain respect and professionalism in all situations. Team members may be assigned tasks with specific deadlines and are expected to complete them within the given time frame. We encourage all employees to prioritize a healthy lifestyle, both at work and in their personal lives.
 
-Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
+As our community operates primarily online, open and respectful communication is vital. Please note that blocking fellow team members on social media is strictly prohibited.
 
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
+Ivirius™ Community members participate in online meetings that may include voice and video calls, Discord server discussions, and other forms of quick communication.
 
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
-
-## 💬 Reporting Guidelines
-
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible via private Discord DM or by using one of the contact methods listed in the appropriate section.
-
-<!--LINK_TO_REPORTING_GUIDELINES_RVSX-->
-
-Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
-
-## 😟 Addressing Grievances
-
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify Riverside Valley Corporation with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. <!--LINK_TO_POLICY_RVSX-->
-
-<!--NOTE_RVSX-->
-
-## 📪 Scope
-
-We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to community business.
-
-This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
-
-## 🪪 Contact info
-
-You can contact us online via private Discord direct message. Unfortunately our Exchange365 Enterprise e-mail service is offline at this time making the afforementioned contact method the only solution.
-
-## ⚖️ License and attribution
-
-> [!WARNING]
-> This code of conduct contains material inspired by the Citizen Code of Conduct. We do not recommend that this code of conduct is reused outside of a Riverside Valley project as it contains details specific to us.
-
-###### 🧑‍⚖️ This code of conduct is distributed by Riverside Valley under the Creative Commons Attribution-ShareAlike license 👤🔃
-
-_The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/)._
-
-_Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)._
-
-```markdown
-Revision 2.3. Posted 6 March 2017.
-
-Revision 2.2. Posted 4 February 2016.
-
-Revision 2.1. Posted 23 June 2014.
-
-Revision 2.0, adopted by the Stumptown Syndicate (http://stumptownsyndicate.org) board on 10 January 2013. Posted 17 March 2013.
-```
+While in-person meetings are rare within Ivirius™ Community, they do occasionally happen. We encourage team members to uphold professionalism and maintain a friendly attitude during any real-life encounters.
